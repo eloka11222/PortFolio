@@ -29,7 +29,7 @@ You can contact me via [Linkedin](https://www.linkedin.com/in/asoh-eloka-6037002
 
 ## Resume and Certifications
 
-[Resume]
+[Resume](https://drive.google.com/file/d/14B17-_rr-3GCp6wXPoXTAw8zPxUFp5Bj/view?usp=drive_link)
 
 [Certifications](https://github.com/eloka11222/Certifications)
 
