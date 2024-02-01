@@ -27,6 +27,8 @@ You can contact me via [Linkedin](https://www.linkedin.com/in/asoh-eloka-6037002
 
 [An analysis of Nigeria's Top 20 scientists](https://github.com/eloka11222/Nigeria-s-Top-50-Scientists)
 
+[Leave Application process](https://github.com/eloka11222/Leave-Application-Process)
+
 ## Resume and Certifications
 
 [Resume](https://drive.google.com/file/d/14B17-_rr-3GCp6wXPoXTAw8zPxUFp5Bj/view?usp=drive_link)
