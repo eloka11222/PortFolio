@@ -1,6 +1,6 @@
 # PortFolio
 
-This is repository contains a collection of the projects i've worked on. The aaim of the repository in general is to diaplay my competencies in the fields of Data Analysis and Power Platform Development
+This repository contains a collection of the projects i've worked on. The aaim of the repository in general is to diaplay my competencies in the fields of Data Analysis and Power Platform Development
 
 Due to privacy and confidentiality, these projects are a tiny fraction of the entirety of my works. a good idea of what i've done can be found on my resume attatched to this portfolio.
 to have an idea of the entirety of what i've done as a data analyst, i have attached my resume to this portfolio.
