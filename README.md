@@ -29,6 +29,8 @@ You can contact me via [Linkedin](https://www.linkedin.com/in/asoh-eloka-6037002
 
 [Leave Application process](https://github.com/eloka11222/Leave-Application-Process)
 
+[Excel Dashboards](https://github.com/eloka11222/Excel-Dashboards)
+
 ## Resume and Certifications
 
 [Resume](https://drive.google.com/file/d/14B17-_rr-3GCp6wXPoXTAw8zPxUFp5Bj/view?usp=drive_link)
