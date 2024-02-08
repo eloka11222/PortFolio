@@ -25,7 +25,7 @@ You can contact me via [Linkedin](https://www.linkedin.com/in/asoh-eloka-6037002
 
 [Tackling Unemployment in Africa](https://github.com/eloka11222/Unemployment-in-Africa)
 
-[An analysis of Nigeria's Top 20 scientists](https://github.com/eloka11222/Nigeria-s-Top-50-Scientists)
+[An analysis of Nigeria's Top 50 scientists](https://github.com/eloka11222/Nigeria-s-Top-50-Scientists)
 
 [Leave Application process](https://github.com/eloka11222/Leave-Application-Process)
 
