@@ -31,7 +31,7 @@ You can contact me via [Linkedin](https://www.linkedin.com/in/asoh-eloka-6037002
 
 [Excel Dashboards](https://github.com/eloka11222/Excel-Dashboards)
 
-[Superstore Dashboard](https://github.com/eloka11222/Superstore-sales-)
+[katy stores case study](https://github.com/eloka11222/Superstore-sales-)
 
 ## Resume and Certifications
 
