@@ -21,6 +21,8 @@ You can contact me via [Linkedin](https://www.linkedin.com/in/asoh-eloka-6037002
 
 ## Projects
 
+[Electronic Products Ratings](https://github.com/eloka11222/Electronic-Products-Survey)
+
 [Shoestyle App (a microsoft power platform project)](https://github.com/eloka11222/Shoe-Styles-app)
 
 [Tackling Unemployment in Africa](https://github.com/eloka11222/Unemployment-in-Africa)
